@@ -1,0 +1,4 @@
+#Mon Jul 27 19:24:37 MSK 2020
+base.0=E\:\\Flutter\\FlutterPractice\\xylophone-flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
